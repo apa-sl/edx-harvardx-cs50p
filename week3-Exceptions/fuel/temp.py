@@ -1,0 +1,7 @@
+s = input("smth: ")
+values = s.split("/")
+x = int(values[0])
+y = int(values[1])
+print(x/y)
+print(type(x))
+print(x)
